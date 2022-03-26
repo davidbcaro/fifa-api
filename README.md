@@ -26,15 +26,25 @@ de la siguiente información:
 De toda la información recolectada la FIFA desea tener un servicio donde retorne la siguiente
 información:
 - Cuántos equipos hay registrados
+  http://127.0.0.1:8000/teams/count/
 - Total de jugadores que participarán en el campeonato
+  http://127.0.0.1:8000/players/count/
 - Quién es el jugador más joven
+  http://127.0.0.1:8000/players/youngestplayer/
 - Quién es el jugador mas viejo
+  http://127.0.0.1:8000/players/oldestplayer/
 - Cuántos jugadores suplentes hay
+  http://127.0.0.1:8000/players/substitute/
 - Promedio de número jugadores suplentes en cada equipo
+  http://127.0.0.1:8000/players/avgsubstitute/
 - Cuál de los equipo fue el que mas registró jugadores?
+  http://127.0.0.1:8000/teams/mostplayers/
 - Cuál es la edad promedio de los jugadores?
+  http://127.0.0.1:8000/players/avgsplayers/
 - Cuál es el promedio de número de jugadores en cada equipo?
+  http://127.0.0.1:8000/players/avgage/
 - Quién es el técnico más viejo
+  http://127.0.0.1:8000/coachs/oldestcoach/
 
 ## Desarrollo
 ### Api Root
@@ -54,3 +64,4 @@ Vary: Accept
     "role": "http://127.0.0.1:8000/role/"
 }
 ```
+### Evidencias consultas
