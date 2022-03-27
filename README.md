@@ -3,11 +3,11 @@
 La FIFA te ha contactado para que le ayudes a consolidar la información de todos los equipos que
 van a ir al próximo mundial, así que te dicen que debes crear una API con un CRUD para cada una
 de la siguiente información:
-- Equipo
+- Equipo:  https://fifa-api.azurewebsites.net/team/
   - Nombre del Equipo
   - Imagen de Bandera
   - Escudo del Equipo
-- Jugadores del equipo, con los siguientes datos de cada jugador:
+- Jugadores del equipo: https://fifa-api.azurewebsites.net/player/
   - Foto del jugador
   - Nombre
   - Apellido
@@ -15,7 +15,7 @@ de la siguiente información:
   - Posición en la que juega
   - Número de camiseta
   - ¿Es titular?
-- Cuerpo técnico
+- Cuerpo técnico: https://fifa-api.azurewebsites.net/coachingstaff/ 
   - Nombre
   - Apellido
   - Fecha de nacimiento
