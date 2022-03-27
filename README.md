@@ -26,25 +26,25 @@ de la siguiente información:
 De toda la información recolectada la FIFA desea tener un servicio donde retorne la siguiente
 información:
 - Cuántos equipos hay registrados
-  http://127.0.0.1:8000/teams/count/
+  https://fifa-api.azurewebsites.net/teams/count/
 - Total de jugadores que participarán en el campeonato
-  http://127.0.0.1:8000/players/count/
+  https://fifa-api.azurewebsites.net/players/count/
 - Quién es el jugador más joven
-  http://127.0.0.1:8000/players/youngestplayer/
+  https://fifa-api.azurewebsites.net/players/youngestplayer/
 - Quién es el jugador mas viejo
-  http://127.0.0.1:8000/players/oldestplayer/
+  https://fifa-api.azurewebsites.net/players/oldestplayer/
 - Cuántos jugadores suplentes hay
-  http://127.0.0.1:8000/players/substitute/
+  https://fifa-api.azurewebsites.net/players/substitute/
 - Promedio de número jugadores suplentes en cada equipo
-  http://127.0.0.1:8000/players/avgsubstitute/
+  https://fifa-api.azurewebsites.net/players/avgsubstitute/
 - Cuál de los equipo fue el que mas registró jugadores?
-  http://127.0.0.1:8000/teams/mostplayers/
+  https://fifa-api.azurewebsites.net/teams/mostplayers/
 - Cuál es la edad promedio de los jugadores?
-  http://127.0.0.1:8000/players/avgsplayers/
+  https://fifa-api.azurewebsites.net/players/avgsplayers/
 - Cuál es el promedio de número de jugadores en cada equipo?
-  http://127.0.0.1:8000/players/avgage/
+  https://fifa-api.azurewebsites.net/players/avgage/
 - Quién es el técnico más viejo
-  http://127.0.0.1:8000/coachs/oldestcoach/
+  https://fifa-api.azurewebsites.net/coachs/oldestcoach/
 
 ## Desarrollo
 ### Api Root
@@ -56,12 +56,12 @@ Content-Type: application/json
 Vary: Accept
 
 {
-    "team": "http://127.0.0.1:8000/team/",
-    "player": "http://127.0.0.1:8000/player/",
-    "coachingstaff": "http://127.0.0.1:8000/coachingstaff/",
-    "nationality": "http://127.0.0.1:8000/nationality/",
-    "position": "http://127.0.0.1:8000/position/",
-    "role": "http://127.0.0.1:8000/role/"
+    "team": "https://fifa-api.azurewebsites.net/team/",
+    "player": "https://fifa-api.azurewebsites.net/player/",
+    "coachingstaff": "https://fifa-api.azurewebsites.net/coachingstaff/",
+    "nationality": "https://fifa-api.azurewebsites.net/nationality/",
+    "position": "https://fifa-api.azurewebsites.net/position/",
+    "role": "https://fifa-api.azurewebsites.net/role/"
 }
 ```
 ### Evidencias consultas
