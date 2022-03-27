@@ -1,5 +1,3 @@
-from turtle import position
-from rest_framework.response import Response
 from rest_framework import serializers
 from .models import Team, Player, CoachingStaff, Nationality, Position, Role
 
@@ -11,8 +9,6 @@ class TeamSerializer(serializers.ModelSerializer):
 
 
 class PlayerSerializer(serializers.ModelSerializer):
-    #position = serializers.StringRelatedField()
-    #team = serializers.StringRelatedField()
 
     class Meta:
         model = Player
@@ -34,9 +30,6 @@ class PlayerSerializer(serializers.ModelSerializer):
 
 
 class CoachingStaffSerializer(serializers.ModelSerializer):
-    #role = serializers.StringRelatedField()
-    #team = serializers.StringRelatedField()
-
     class Meta:
         model = CoachingStaff
         fields = '__all__'
