@@ -65,13 +65,13 @@ Vary: Accept
 }
 ```
 ### Evidencias consultas
-![Consulta 1](https://raw.githubusercontent.com/davidbcaro/fifa-api/main/querys/01-TeamCount.png)
-![Consulta 2](https://raw.githubusercontent.com/davidbcaro/fifa-api/main/querys/02-PlayerCount.png)
-![Consulta 3](https://raw.githubusercontent.com/davidbcaro/fifa-api/main/querys/03-YoungestPlayer.png)
-![Consulta 4](https://raw.githubusercontent.com/davidbcaro/fifa-api/main/querys/04-OldestPlayer.png)
-![Consulta 5](https://raw.githubusercontent.com/davidbcaro/fifa-api/main/querys/05-SubstitutePlayers.png)
-![Consulta 6](https://raw.githubusercontent.com/davidbcaro/fifa-api/main/querys/06-AvgSubstPlayersTeam.png)
-![Consulta 7](https://raw.githubusercontent.com/davidbcaro/fifa-api/main/querys/07-RegisteredMostPlayers.png)
-![Consulta 8](https://raw.githubusercontent.com/davidbcaro/fifa-api/main/querys/08-AveragePlayersTeam.png)
-![Consulta 9](https://raw.githubusercontent.com/davidbcaro/fifa-api/main/querys/09-AverageAgePlayers.png)
-![Consulta 10](https://raw.githubusercontent.com/davidbcaro/fifa-api/main/querys/10-OldestCoach.png)
+![Consulta 1](https://raw.githubusercontent.com/davidbcaro/fifa-api/main/queries/01-TeamCount.png)
+![Consulta 2](https://raw.githubusercontent.com/davidbcaro/fifa-api/main/queries/02-PlayerCount.png)
+![Consulta 3](https://raw.githubusercontent.com/davidbcaro/fifa-api/main/queries/03-YoungestPlayer.png)
+![Consulta 4](https://raw.githubusercontent.com/davidbcaro/fifa-api/main/queries/04-OldestPlayer.png)
+![Consulta 5](https://raw.githubusercontent.com/davidbcaro/fifa-api/main/queries/05-SubstitutePlayers.png)
+![Consulta 6](https://raw.githubusercontent.com/davidbcaro/fifa-api/main/queries/06-AvgSubstPlayersTeam.png)
+![Consulta 7](https://raw.githubusercontent.com/davidbcaro/fifa-api/main/queries/07-RegisteredMostPlayers.png)
+![Consulta 8](https://raw.githubusercontent.com/davidbcaro/fifa-api/main/queries/08-AveragePlayersTeam.png)
+![Consulta 9](https://raw.githubusercontent.com/davidbcaro/fifa-api/main/queries/09-AverageAgePlayers.png)
+![Consulta 10](https://raw.githubusercontent.com/davidbcaro/fifa-api/main/queries/10-OldestCoach.png)
