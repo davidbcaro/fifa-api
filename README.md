@@ -1,4 +1,7 @@
 # Fifa API
+## Demo
+https://fifa-api.azurewebsites.net/  
+https://appfifa.herokuapp.com/
 ## Descripción de la prueba
 La FIFA te ha contactado para que le ayudes a consolidar la información de todos los equipos que
 van a ir al próximo mundial, así que te dicen que debes crear una API con un CRUD para cada una
